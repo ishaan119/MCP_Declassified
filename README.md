@@ -183,4 +183,3 @@ This design lets you expose any existing system to Claude without architectural 
 
 - [MCP Specification](https://spec.modelcontextprotocol.io/)
 - [Official Python SDK](https://github.com/modelcontextprotocol/python-sdk)
-- [Complete bridge examples](https://github.com/your-repo/mcp-api-bridges)
